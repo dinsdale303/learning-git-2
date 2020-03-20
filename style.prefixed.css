@@ -1,0 +1,14 @@
+.poem {
+  font-family: "Inconsolata";
+  color: white;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);}
+
+  body {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: center;
+        justify-content: center;
+  }
